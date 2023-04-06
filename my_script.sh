@@ -1,3 +1,4 @@
+#!/bin/bash
 function is_even() {
   local num=$1
 
